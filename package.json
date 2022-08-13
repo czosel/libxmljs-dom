@@ -22,7 +22,7 @@
     "dependencies": {
         "css2xpath": "0.0.1",
         "libxmljs2": "^0.30.1",
-        "needle": "^2.6.0"
+        "needle": "^2.9.1"
     },
     "devDependencies": {
         "nodeunit": "0.11.3"
